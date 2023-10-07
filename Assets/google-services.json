@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "519900700817",
+    "project_id": "clicker-p",
+    "storage_bucket": "clicker-p.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519900700817:android:f2fc7b3255852de6665f30",
+        "android_client_info": {
+          "package_name": "com.AGGameStudio.Clicker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9HS8gggBhXNM4a-bLRlcE-_EVmTOgpkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
